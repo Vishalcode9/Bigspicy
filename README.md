@@ -9,7 +9,7 @@ bigspicy generates Spice decks in Xyce format, though this can (and should) be e
   <img  src="/bigspicy.png">
 </p>
 
-
+The link to my design is https://github.com/Vishalcode9/iiitb_Johnson_counter
 ## Pre-Requisites ##
 You need:
 
