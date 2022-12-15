@@ -6,7 +6,7 @@ bigspicy allows you to combine structural Verilog from a PDK, Spice models of st
 bigspicy generates Spice decks in Xyce format, though this can (and should) be extended to other Spice dialects. (That is why we recommend setting up Xyce below.)
 
 <p align="center">
-  <img  src="/images/1.png">
+  <img  src="/bigspicy.png">
 </p>
 
 
